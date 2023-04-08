@@ -1,5 +1,4 @@
 Dados utilizados no TCC do MBA em Data Science & Analytics<br>
-<br>
 1. IBGE - Censo Demográfico<br>
 1.1 População dos Municípios (xls | pdf)<br>
 Fonte: https://www.ibge.gov.br/estatisticas/sociais/rendimento-despesa-e-consumo/22827-censo-demografico-2022.html<br>
