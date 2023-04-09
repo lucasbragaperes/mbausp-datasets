@@ -21,3 +21,7 @@ Upload 08/04/2023<br></p>
 Fonte: https://portaldatransparencia.gov.br/coronavirus?ano=2021<br>
 Upload 08/04/2023<br></p>
 <br>
+<br>
+<p>Dados Consolidados após tratamento via Google Colab<br>
+Notebook: https://colab.research.google.com/drive/1cv-RLGxIDEg279FYf3X-ZQTeF9q3xG7j#scrollTo=MsbFds_qftim <br>
+</p>
